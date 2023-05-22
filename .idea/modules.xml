@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/yolov5-hand-42-master.iml" filepath="$PROJECT_DIR$/.idea/yolov5-hand-42-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/yolov5-suitcase.iml" filepath="$PROJECT_DIR$/.idea/yolov5-suitcase.iml" />
     </modules>
   </component>
 </project>
