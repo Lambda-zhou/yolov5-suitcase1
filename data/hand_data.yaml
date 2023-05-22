@@ -2,8 +2,8 @@
 
 
 # train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
-train: C:/Users/86135/Desktop/paperwork/yolov5-hand-42-master/archive/suitcase_yolo_format/images/train
-val: C:/Users/86135/Desktop/paperwork/yolov5-hand-42-master/archive/suitcase_yolo_format/images/val
+train: C:/Users/86135/Desktop/paperwork/yolov5-suitcase/archive/suitcase_yolo_format/images/train
+val: C:/Users/86135/Desktop/paperwork/yolov5-suitcase/archive/suitcase_yolo_format/images/val
 
 # number of classes
 nc: 1
