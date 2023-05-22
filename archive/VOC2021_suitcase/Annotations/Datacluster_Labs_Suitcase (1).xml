@@ -1,0 +1,33 @@
+<annotation>
+  <folder>Datacluster</folder>
+  <filename>Datacluster_Labs_Suitcase (148).jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>3120</width>
+    <height>4160</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>suitcase</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>802.9</xmin>
+      <ymin>667.39</ymin>
+      <xmax>2645.77</xmax>
+      <ymax>4149.87</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>
